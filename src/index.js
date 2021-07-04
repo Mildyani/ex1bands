@@ -26,8 +26,3 @@ function buildCardDOM(band) {
        </div>`
     )
 }
-//album_title: "Exposure"  
-//artist_title: "NUOVO TESTAMENTO"
-//genre_text: "pop"
-//art_id: 1881977079
-//image_base_url: "https://f4.bcbits.com/img/axxxARTIST-IDxxx_9.jpg
