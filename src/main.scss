@@ -1,0 +1,36 @@
+.card {
+  width: 200px;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  background-color: #eaeaf1;
+}
+.cards {
+  justify-content: center;
+  display: grid;
+  grid-template-columns: repeat(5, 240px);
+}
+
+img {
+  width: 200px;
+  border-radius: 10px;
+}
+
+.album {
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.artist {
+  font-size: 14px;
+}
+
+.genre {
+  color: #828286;
+}
+
+h1 {
+    font-size: 72px;
+    text-align: center;
+    margin: 0;
+}
